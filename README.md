@@ -16,3 +16,5 @@ Esta é a minha seleção de filmes essenciais.
 - [ ] O Senhor dos Anéis: A Sociedade do Anel
 - [ ] Alice No Pais Das Maravilhas
 - [ ] Interstelar
+- [ ] Carros 
+- [ ] Velozes e furiosos
