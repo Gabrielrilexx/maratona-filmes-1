@@ -18,3 +18,5 @@ Esta é a minha seleção de filmes essenciais.
 - [ ] Interstelar
 - [ ] Carros 
 - [ ] Velozes e furiosos
+- [ ] Casa Monstro
+- [ ] Invocação do mau
