@@ -1,5 +1,6 @@
 # maratona-filmes-1
 Sugestão de Filmes
+ minhas-sugestoes
 
 # Minha Lista de Filmes para Maratonar
 
@@ -20,3 +21,4 @@ Esta é a minha seleção de filmes essenciais.
 - [ ] Velozes e furiosos
 - [ ] Casa Monstro
 - [ ] Invocação do mau
+ main
